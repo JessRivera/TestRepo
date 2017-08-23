@@ -1,4 +1,6 @@
 Animals:
 
 Birds
+Lizards
+Snakes
 
